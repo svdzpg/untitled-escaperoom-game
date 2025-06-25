@@ -1,11 +1,12 @@
 # untitled-escaperoom-game
 How to run!
-copy the raw code (ctrl + a) and paste (ctrl + v) into either Thonny or Visual Studio Code
+Download the package.
 
 About:
-This game is an escape room game and the game has you using a windows 95 computer to hack into a secure door and a secure safe in order to escape!
+This game is an escape room I built by myself! You have to use a really old computer to hack and escape the room.
 
 Notes:
-Please note that not all of the commands used in the computer in the game work IRL as they would in-game.
+Please note that the function of certain commands have been altered.
 
-
+Game release date:
+25/06/2025 (8:00pm BST)
