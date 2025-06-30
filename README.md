@@ -9,4 +9,4 @@ Notes:
 Please note that the function of certain commands have been altered.
 
 Game release date:
-25/06/2025 (8:00pm BST)
+prolly never idfk cuzzy
