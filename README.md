@@ -9,4 +9,4 @@ Notes:
 Please note that the function of certain commands have been altered.
 
 Game release date:
-prolly never idfk cuzzy
+prolly never idk cuzzy
