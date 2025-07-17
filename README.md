@@ -1,6 +1,6 @@
 # untitled-escaperoom-game
 How to run!
-Download the package.( not released yet lol)
+Download the release(on the right side of the page)
 
 About:
 This game is an escape room I built by myself! You have to use a really old computer to hack and escape the room.
@@ -9,7 +9,7 @@ Notes:
 Please note that the function of certain commands have been altered.
 
 Game release date:
-15/07/2025
+Released but very buggy :l
 
 
 Spoliers/hints!!!\/ \/ \/ \/ \/ \/(Scroll down)
