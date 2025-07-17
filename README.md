@@ -10,6 +10,7 @@ Please note that the function of certain commands have been altered.
 
 Game release date:
 Released but very buggy :l
+https://github.com/svdzpg/untitled-escaperoom-game/releases/tag/v0.1-beta
 
 
 Spoliers/hints!!!\/ \/ \/ \/ \/ \/(Scroll down)
